@@ -23,8 +23,8 @@ If you are running it on your own machine use a vpn or run it through tor
 
 ---
 
--Created by: zer0mania#4652 on 1/13/2022
--Fixed by Robi on 7/4/2023 (happy independence day lol)
+-Created by: [zer0mania](https://github.com/zer0mania/) on 1/13/2022
+-Fixed by [Robi](https://github.com/Robiftp) on 7/4/2023 (happy independence day lol)
 
 ---
 ❗ Disclaimers
