@@ -23,6 +23,11 @@ If you are running it on your own machine use a vpn or run it through tor
 
 ---
 
-Created by: zer0mania#4652 on 1/13/2022
-Fixed by Robi on 7/4/2023 (happy independence day lol)
+-Created by: zer0mania#4652 on 1/13/2022
+-Fixed by Robi on 7/4/2023 (happy independence day lol)
 
+---
+❗ Disclaimers
+- I am not responsible for anything that may happen, such as, API Blocking, Account Termination, etc.
+- This **may** slow down your wifi and/or host computer
+- This is for testing porpuses only and you should only use this tool on your own website.
