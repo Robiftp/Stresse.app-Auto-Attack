@@ -1,31 +1,28 @@
-# stresser.app-auto
-stresser.app-auto: Down sites with https://stresser.app/ with almost no limit.
+# Stresse.app-Auto-Attack
+Automatically down sites with https://stresse.app/
 
-instructions on how to operate this bot:
+---
 
-1. install latest version of python to path from https://www.python.org/downloads/
+Instructions on how to operate this bot:
 
-2. run setup.py to install dependencies
+1. Install latest version of python to path from https://www.python.org/downloads/
 
-3. make a account on https://stresser.app/ (use a password that u dont use on other personal accounts)
+2. Run setup.py to install dependencies
 
-4. open logins.json and type in your login that u used for stresser.app username goes to username and password goes to password and put it inside the quotes
+3. Make a account on https://stresser.app/ (use a password that u dont use on other personal accounts) (Use a vpn or tor when registering)
 
-5. you can start using the tool by double clicking on the python script file or executing it from cmd and booting your site of choice
+4. Open logins.json and type in your username in "your_username" and your password in "your_password"
 
-additional info: so u dont bother me the chromedriver.exe might become outdated over a period of time
-so you can get it from https://chromedriver.chromium.org/downloads and just replace the one thats in the folder and make sure that that the version is the same as the chrome version you have on your pc. A good rule of thumb is to download a version that is a version older, for example if the latest version of chrome driver is 98 then go with 97 
+5. You can start using the tool by double clicking on the python script file or executing it from cmd and booting your site of choice
 
-(you dont have to read this lol) 
-since presumably i think they design it for the beta version for chrome so developers could automate their site and test if it works on the latest version of chrome and make changes accordingly. 
+---
 
-also it works on most school websites and stuff and dont expect to shutdown google with this they have ddos protection ofc
+Additional info: chromedriver.exe might become outdated over a period of time so you can get it from https://chromedriver.chromium.org/downloads and just replace the one thats in the folder and make sure that 
+that the version is the same as the chrome version you have on your pc.
+If you are running it on your own machine use a vpn or run it through tor
 
-wHy dOnT u jUst uSe tHe wEbsIte: this bot extends the limits from 180 seconds to 18000 seconds and if u do maths its 5 hours so u can kill site
-for 5 hours and i will try to add a auto account swap or a automatic register idk
+---
 
-if this breaks hmu on discord and i will try to fix and if the website patches it then its prob broke forever :(
+Created by: zer0mania#4652 on 1/13/2022
+Fixed by Robi on 7/4/2023 (happy independence day lol)
 
-last checked working on 1/13/2022
-
-zer0mania#4652
